@@ -1,4 +1,4 @@
-#! usr/bin/env/Python
+#!/usr/bin/Python
 
 print"Hello"
 
