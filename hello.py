@@ -1,4 +1,4 @@
 #!/usr/bin/Python
 
-print"Hello . Testing"
+print"Hello"
 
